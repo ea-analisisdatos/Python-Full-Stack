@@ -22,7 +22,7 @@ En el mismo directorio que el archivo requirements.txt:
 ``pip install -r requirements.txt``
 
 ## Instalación
-
+Versión instalada: Python 3.12.2
 https://www.python.org/ftp/python/3.12.3/python-3.12.3-amd64.exe
 
 Add Python to environment variables.
