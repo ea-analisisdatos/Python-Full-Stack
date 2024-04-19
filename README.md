@@ -23,8 +23,7 @@ En el mismo directorio que el archivo requirements.txt:
 
 ## Instalación
 
-https://www.python.org/downloads/release/python-31011/
-https://www.python.org/ftp/python/3.10.11/python-3.10.11-amd64.exe
+https://www.python.org/ftp/python/3.12.3/python-3.12.3-amd64.exe
 
 Add Python to environment variables.
 
