@@ -31,7 +31,7 @@ Examina cada script para localizar los siguientes elementos:
 
 | C++                            | Java                          | Python                       | JavaScript                   |
 |--------------------------------|-------------------------------|------------------------------|------------------------------|
-| ```cpp                         | ```java                       | ```python                    | ```javascript                |
+| ```c++                         | ```java                       | ```python                    | ```javascript                |
 | #include <iostream>            | public class Main {           | # Variables                  | // Variables                 |
 | using namespace std;           |     public static void main(String[] args) { | a = 5                        | let a = 5;                   |
 |                                |       // Variables           | b = 3                        | let b = 3;                   |
