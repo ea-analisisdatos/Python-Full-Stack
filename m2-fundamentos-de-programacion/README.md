@@ -28,36 +28,6 @@ Examina cada script para localizar los siguientes elementos:
 - Bucles: Encuentra ejemplos de bucles como for, while o do-while, y observa cómo se implementan.
 - Programación Orientada a Objetos (POO): Si es posible, busca ejemplos de clases, objetos, métodos y herencia en los scripts.
 
-
-| C++                            | Java                          | Python                       | JavaScript                   |
-|--------------------------------|-------------------------------|------------------------------|------------------------------|
-| ```c++                         | ```java                       | ```python                    | ```javascript                |
-| #include <iostream>            | public class Main {           | # Variables                  | // Variables                 |
-| using namespace std;           |     public static void main(String[] args) { | a = 5                        | let a = 5;                   |
-|                                |       // Variables           | b = 3                        | let b = 3;                   |
-| int main() {                   |         int a = 5;           |                              |                              |
-|     int a = 5;                 |         int b = 3;           | # Operadores                 | // Operadores                |
-|     int b = 3;                 |         int result;          | result = a + b               | let result = a + b;          |
-|     int result;                |                               |                              |                              |
-|                                |         // Operadores       | # Condicionales              | // Condicionales             |
-|     result = a + b;            |         result = a + b;      | if result > 5:               | if (result > 5) {            |
-|                                |                               |     print("El resultado es mayor que 5") |   console.log("El resultado es mayor que 5"); |
-|                                |                               | else:                        | } else {                     |
-|                                |                               |     print("El resultado es menor o igual que 5") |   console.log("El resultado es menor o igual que 5"); |
-|                                |                               |                              |                              |
-|                                |                               | # Bucles                     | # Bucles                    |
-|                                |                               | for i in range(5):           | for (let i = 0; i < 5; i++) { |
-|                                |                               |     print("Iteración", i)   |     console.log("Iteración", i); |
-|                                |                               |                              | }                            |
-|                                |                               |                              |                              |
-|     return 0;                  |     }                         |                              |                              |
-| }                              | }                             |                              | ```                          |
-| ```                            | ```                           | ```                          | ```                          |
-
-
-
-## Otra forma de presentar los scripts
-
 ### Ejemplo en C++:
 ```c++
 #include <iostream>
