@@ -1,3 +1,8 @@
+# Resultado
+
+![Práctica 2: Web Bejob](https://github.com/ea-analisisdatos/Python-Full-Stack/blob/main/m4-fundamentos-de-desarrollo-web/practica/bejob/media/Python-Full-Stack-m4-fundamentos-de-desarrollo-web-practica-bejob-index-html-ERIKA-ALVARES.png)
+
+
 # Explicación del código HTML
 
 Este código HTML define la estructura de una página web. 
@@ -56,4 +61,6 @@ Este código CSS define estilos para una página web. Explicación de algunas de
 
 - `@media (min-width: 850px) { ... }`, `@media (min-width: 1200px) { ... }`: Estilos específicos que se aplican sólo cuando el ancho de la ventana del navegador es mayor que ciertos valores, ajustando el diseño de la página para diferentes tamaños de pantalla.
 
-Estos son sólo algunos ejemplos de las reglas CSS utilizadas en este código. Cada una de ellas define cómo se verá y se comportará un elemento específico en la página web.
+
+
+
