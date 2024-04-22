@@ -10,5 +10,6 @@ Construir una página web utilizando CSS y HTML
 Level 2 headings may be created by course providers in the future.
 
 # Práctica 2: Proyecto Web Bejob
-Construir una página web utilizando CSS y HTML
+Construir una página completa con CSS y HTML para Bejob
+
 
