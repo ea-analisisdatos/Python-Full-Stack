@@ -1,5 +1,5 @@
 
-# Práctica 1: Proyecto Galería de Imagenes
+# Práctica 1: Proyecto Galería de Imágenes
 Construir una página web utilizando CSS y HTML
 
 ## 1. Empezando a trabajar en la galería de imágenes. Creando los archivos.
