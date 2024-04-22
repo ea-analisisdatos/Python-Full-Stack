@@ -1,4 +1,5 @@
-# Práctica 1: Proyecto Galería de Ima
+
+# Práctica 1: Proyecto Galería de Imagenes
 Construir una página web utilizando CSS y HTML
 
 ## 1. Empezando a trabajar en la galería de imágenes. Creando los archivos.
@@ -10,5 +11,4 @@ Level 2 headings may be created by course providers in the future.
 
 # Práctica 2: Proyecto Web Bejob
 Construir una página web utilizando CSS y HTML
-
 
