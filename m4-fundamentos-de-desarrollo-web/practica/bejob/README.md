@@ -28,8 +28,6 @@ Este código HTML define la estructura de una página web.
 
    - Dentro de estas secciones, se utilizan diferentes clases y etiquetas HTML para estructurar y presentar el contenido de manera adecuada, incluyendo títulos (`h1`, `h2`, `h3`), párrafos (`p`), botones (`button`), listas (`ul`, `li`), imágenes, y contenedores (`div`).
 
-En resumen, este código HTML crea una estructura básica de una página web con secciones para mostrar información sobre una empresa, programas ofrecidos, características y una llamada a la acción final, todo ello presentado de forma semántica y estilizada con CSS.
-
 
 
 # Explicación del código CSS
