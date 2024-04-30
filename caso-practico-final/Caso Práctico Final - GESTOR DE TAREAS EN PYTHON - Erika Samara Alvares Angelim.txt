@@ -1,7 +1,7 @@
 
 # CURSO PYTHON FULL STACK IMPARTIDO POR BEJOB
 Alumna: Erika Samara Alvares Angelim
-
+Este código encuentra-se en Github: https://github.com/ea-analisisdatos/Python-Full-Stack/tree/main/caso-practico-final
 
 ## Acerca de esta actividad formativa
 
