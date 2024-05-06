@@ -52,13 +52,14 @@ if __name__ == "__main__":
     gestor = GestorTareas()
 
     while True:
-        print("\n--- Gestor de Tareas ---")
+        print("\n--- MENU - GESTOR DE TAREAS ---")
         # Menú de opciones para que el usuario interactúe con el gestor de tareas.
         print("1. Agregar nueva tarea")
         print("2. Marcar tarea como completada")
         print("3. Mostrar todas las tareas")
         print("4. Eliminar tarea")
         print("5. Salir")
+        print("-------------------------------\n")
 
         opcion = input("Ingrese el número de la opción deseada: ")
 
